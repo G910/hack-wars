@@ -1,4 +1,0 @@
-hack-wars
-=========
-
-Gra przeglądarkowa.
