@@ -1,4 +1,10 @@
 <?php
+
+//Watch out for directory/file names, server is linux, case sensitive.
+//SQL dump available in repo.
+//Add comments to important code.
+//Delete all passwords before adding do repo. Replace with stars ***
+
 print("
 <html>
 <head>
@@ -10,7 +16,7 @@ $HW = TRUE;
 
 $root_dir = "./";
 $classes_dir = "./Classes/";
-$images_dir = "./images/";
+$images_dir = "./Images/";
 $templates_dir = "./Templates/";
 
 require_once("{$classes_dir}Player.php");
