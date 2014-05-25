@@ -1,0 +1,33 @@
+body
+{
+	background-color: black;
+	color: green;
+}
+
+#logo
+{
+	width: 45%;
+	height: auto;
+}
+
+#menu-left
+{
+	position: fixed;
+	top: 25%;
+	left: 0;
+	height: 75%;
+	width: 10%;
+}
+
+#menu-left ul.a{
+	
+}
+
+
+
+#content
+{
+	width: 70%;
+	margin-top: 10%;
+	min-height: 50%;
+}
