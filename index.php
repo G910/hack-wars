@@ -8,8 +8,13 @@ print("
 ");
 $HW = TRUE;
 
-require_once("Player.php");
-require_once("Base.php");
+$root_dir = "./";
+$classes_dir = "./Classes/";
+$images_dir = "./images/";
+$templates_dir = "./Templates/";
+
+require_once("{$classes_dir}Player.php");
+require_once("{$classes_dir}Base.php");
 
 if(!isset($_GET['lang'])){
 	$lang = "pl";
