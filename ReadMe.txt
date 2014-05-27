@@ -1,1 +1,4 @@
-HackWars - Gra przegl¹darkowa. Walcz z innymi hakerami, przejmij w³adzê nad miastem!
+HackWars - Gra przeglï¿½darkowa. Walcz z innymi hakerami, przejmij wï¿½adzï¿½ nad miastem!
+
+
+Test edit, by thekrzos
