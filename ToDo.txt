@@ -1,0 +1,45 @@
+Done:
+	
+	
+	-Page rendering
+	-Base class
+		+Connection //Usage: Base::start($host, $user, vat $pass, $base)
+		+Query //Usage Base::query($sql);
+	-Player class
+		+Construct class //Usage new Player($hash), hash is sha1(sha1($nick.$pass).$salt)
+		+Register user //Usage Player::registerNewUser($nick, $pass, $mail)
+		+Login user //Usage Player::loginUser($nick, $pass)
+		+Logout user //Usage: $Player->logoutUser()
+	-Form class
+		+Start form // startForm($action, $method = "POST", $name = "form" $id = "null")
+		+End form // endForm()
+	
+	
+In progress:
+	
+	-Player class
+		+Show variables //Usage $Player->getIp, $Player->getNick etc.
+	-Form class
+		+Input method
+		
+	
+	
+	
+To do:
+	
+	-Form class
+		+Special inputs
+	-Web design
+	-Register domain
+	-Computer class
+	-City class
+	-Hack class
+	
+	
+	
+Cancelled:
+	
+	-
+	
+	
+	
