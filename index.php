@@ -19,8 +19,7 @@ $classes_dir = "./Classes/";
 $images_dir = "./Images/";
 $templates_dir = "./Templates/";
 
-require_once("{$classes_dir}Player.php");
-require_once("{$classes_dir}Base.php");
+include_once("Includes.php");
 
 if(!isset($_GET['lang'])){
 	$lang = "pl";
