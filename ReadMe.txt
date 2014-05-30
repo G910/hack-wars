@@ -1,4 +1,1 @@
 HackWars - Gra przegl�darkowa. Walcz z innymi hakerami, przejmij w�adz� nad miastem!
-
-
-Test edit, by thekrzos
