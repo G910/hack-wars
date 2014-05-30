@@ -24,6 +24,9 @@ class Computer
 		$this->cooling = $cooling;
 	}
 	
+	function getProcessorAttributes($id){
+		
+	}
 
 }
 
