@@ -1,0 +1,22 @@
+	
+	#hw_players
+		-id (int)
+		-nick (varchar)
+		-pass (varchar)
+		-hash (varchar)
+		-logged (int)
+		-ip (varchar)
+	
+	#hw_processors
+		-id (int)
+		-name (varchar)
+		-speed (double)
+		-temp_max (int)
+		-value (int)
+	#hw_videoCards
+		-id (int)
+		-name (varchar)
+		-speed (double)
+		-temp_max (int)
+		-value (int)
+	
