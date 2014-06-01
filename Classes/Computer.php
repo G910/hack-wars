@@ -19,7 +19,7 @@ class Computer
 		$this->model = $model;
 		$this->processor = $processor;
 		$this->ram = $ram;
-		$this->video $video;
+		$this->video = $video;
 		$this->production_date = $production_date;
 		$this->cooling = $cooling;
 	}

@@ -1,7 +1,7 @@
 <?php
 class Form
 {
-	public static function startForm($action, $method = "POST", $name = "form" $id = "null"){
+	public static function startForm($action, $method = "POST", $name = "form", $id = "null"){
 		if(empty($action)){
 			return "Error, no action assigned.";
 		}
